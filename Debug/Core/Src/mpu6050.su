@@ -1,0 +1,5 @@
+../Core/Src/mpu6050.c:19:13:i2c_MPU6050_write_reg	32	static
+../Core/Src/mpu6050.c:33:13:i2c_MPU6050_read_reg	32	static
+../Core/Src/mpu6050.c:48:9:MPU6050_Init	16	static
+../Core/Src/mpu6050.c:87:6:MPU6050_Read_Accel	24	static
+../Core/Src/mpu6050.c:114:6:MPU6050_Read_Gyro	24	static
